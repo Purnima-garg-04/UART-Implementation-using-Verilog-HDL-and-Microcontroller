@@ -100,3 +100,4 @@ module apb_uart #(
     end
 
 endmodule
+// Verified APB memory map offsets
