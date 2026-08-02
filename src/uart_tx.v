@@ -70,3 +70,4 @@ module uart_tx (
         end
     end
 endmodule
+// Added TX FSM state descriptions
