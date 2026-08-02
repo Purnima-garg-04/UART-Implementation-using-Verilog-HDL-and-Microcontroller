@@ -20,3 +20,6 @@ This repository contains the Verilog HDL implementation of a Universal Asynchron
 - Parameterizable clock frequency and baud rate.
 - Standard APB interface for easy integration with microcontrollers.
 - Independent TX and RX modules.
+
+## Setup Instructions
+- Use Vivado to simulate the design.
