@@ -25,3 +25,4 @@ module baud_gen #(
         end
     end
 endmodule
+// End of baud_gen module
