@@ -101,3 +101,5 @@ module apb_uart #(
 
 endmodule
 // Verified APB memory map offsets
+
+// Refactored PREADY/PSLVERR logic
