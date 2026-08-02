@@ -95,3 +95,4 @@ module uart_rx #(
         end
     end
 endmodule
+// Enhanced RX sampling logic
